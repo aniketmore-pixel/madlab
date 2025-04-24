@@ -1,0 +1,13 @@
+.Products {
+    display: flex;
+    flex-direction: row;
+}
+
+.product {
+    margin: 25px;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10%;
+    border-width: 2px;
+    border-color: black;
+}

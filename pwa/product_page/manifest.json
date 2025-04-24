@@ -1,0 +1,20 @@
+{
+    "name": "Product Page PWA",
+    "short_name": "Products",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icons/icon-small.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-large.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
